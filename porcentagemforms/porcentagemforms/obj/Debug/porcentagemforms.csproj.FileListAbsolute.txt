@@ -1,0 +1,11 @@
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\bin\Debug\porcentagemforms.exe.config
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\bin\Debug\porcentagemforms.exe
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\bin\Debug\porcentagemforms.pdb
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.csproj.AssemblyReference.cache
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.csproj.SuggestedBindingRedirects.cache
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.Form1.resources
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.Properties.Resources.resources
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.csproj.GenerateResource.cache
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.csproj.CoreCompileInputs.cache
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.exe
+C:\Users\SENAI\Documents\kallyane C#\porcentagemforms\porcentagemforms\obj\Debug\porcentagemforms.pdb
